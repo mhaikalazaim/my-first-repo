@@ -15,12 +15,13 @@ A local *habitation* and a **name**.
 2. an ordered
 3. list
 
-Here is 'some code' in the middle of sentence.
-'''
+Here is `some code` in the middle of sentence.
+
+```
 This is
 a block
 of code
-'''
+```
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
