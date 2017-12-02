@@ -1,0 +1,41 @@
+commit 416bf764797b0169aa8b37ada6a4e4dab80eab7d
+Author: mhaikalazaim <mhaikalazaim@gmail.com>
+Date:   Fri Nov 24 20:21:39 2017 +0700
+
+    added xxx file
+
+commit 696a43c0b177557acca0c725bb8787efda098dd5
+Author: mhaikalazaim <mhaikalazaim@gmail.com>
+Date:   Fri Nov 24 20:13:17 2017 +0700
+
+    added gitignore
+
+commit 4bd384b1fce1c828f4e9fb8783561e509f994547
+Author: mhaikalazaim <mhaikalazaim@gmail.com>
+Date:   Fri Nov 24 20:02:33 2017 +0700
+
+    modify rev1 file1exe
+
+commit 72f2d11777c573e01aae57299778a315d49e4daa
+Author: mhaikalazaim <mhaikalazaim@gmail.com>
+Date:   Fri Nov 24 19:57:59 2017 +0700
+
+    modify file1exe
+
+commit 48d6781d0d9f28113d759a8e0f634a8c5204ae5f
+Author: mhaikalazaim <mhaikalazaim@gmail.com>
+Date:   Fri Nov 24 19:47:00 2017 +0700
+
+    now add 2 files
+
+commit 860cae70bef90f0d8025ef739ebd5246d5e6a990
+Author: mhaikalazaim <mhaikalazaim@gmail.com>
+Date:   Fri Nov 24 19:39:46 2017 +0700
+
+    modified file1exe.txt
+
+commit bce26f04be813ae5d75775961500577d78109ab5
+Author: mhaikalazaim <mhaikalazaim@gmail.com>
+Date:   Fri Nov 24 19:33:33 2017 +0700
+
+    added file1exe.txt
